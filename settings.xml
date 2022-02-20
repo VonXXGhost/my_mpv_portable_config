@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <LastUpdateCheck>0</LastUpdateCheck>
+    <Volume>80</Volume>
+    <RecentFiles>
+        <string>E:\Download\少战最终章OVA3.mp4</string>
+        <string>D:\Temp\2022-02-19_16-35-30.mkv</string>
+        <string>E:\Download\[NC-Raws] 銀河騎士傳 織愛之星 - 電影 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4</string>
+        <string>F:\Download\[Nekomoe kissaten][Ryuu to Sobakasu no Hime][Movie][1920x800][CHS].mp4</string>
+        <string>F:\Anime\[POPGO] Evangelion 3.0+1.01 Thrice Upon a Time AMZN-WEBRip 1920X816 X265 Main10p\[POPGO] Evangelion 3.0+1.01 Thrice Upon a Time (AMZN-WEBRip 1920X816 X265 Main10p AAC Chap)[2ABD07DA].mkv</string>
+        <string>D:\temp\2022-02-19_16-35-30.mkv</string>
+    </RecentFiles>
+    <WindowLocation>
+        <X>-1</X>
+        <Y>0</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>118</X>
+        <Y>543</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>1400</Width>
+        <Height>788</Height>
+    </WindowSize>
+    <ConfigEditorSearch>scr</ConfigEditorSearch>
+    <Mute>no</Mute>
+    <UpdateCheckVersion />
+</AppSettings>
